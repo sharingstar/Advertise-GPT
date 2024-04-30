@@ -3,8 +3,8 @@ export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
 export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
 export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
-  description: '',
+  title: '广告嵌入 bot',
+  description: '这个 bot 里嵌入了不少金主爸爸的广告',
   copyright: '',
   privacy_policy: '',
   default_language: 'zh-Hans',
